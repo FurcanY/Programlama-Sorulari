@@ -41,4 +41,4 @@ kaplumbağa grafik programı yazınız.
 # Kodu inceledikten sonra kodlarin mantigini anlatan pdfe bakmaniz daha iyi anlamanizi saglayabilir. Kolay Gelsin !!
 
 
-![](https://media.giphy.com/media/3o7btMUhSRJdn6yPVS/giphy.gif)
+![](https://media.giphy.com/media/NyivFVP4PCmsw/giphy.gif)
