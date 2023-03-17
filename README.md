@@ -1,4 +1,4 @@
-# Programlama Soruları ve Çözumleri
+# Programlama Soruları ve Çözümleri
 
 ### Buradaki ornekleri cozmeniz sizin gelismenizi sagalayacaktir. Herkese iyi calismalar.
 
